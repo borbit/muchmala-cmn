@@ -4,3 +4,4 @@ exports.Users   = require('./lib/users');
 exports.User    = require('./lib/user');
 exports.errors  = require('./lib/errors');
 exports.db      = require('./lib/db');
+exports.helpers = require('./lib/helpers');
