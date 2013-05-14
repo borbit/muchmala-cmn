@@ -6,7 +6,7 @@ Installation
 
   It is possible that you experience problems with installation of `node-canvas` on this step. Make sure that you have `cairo` installed.
 
-    brew install cairo
+      brew install cairo
 
   Probably it'll ask you to install pachage from here: [http://xquartz.macosforge.org/](http://xquartz.macosforge.org/)
 
@@ -16,7 +16,7 @@ Installation
 
   If you are still having problems with missing dependencies (something like `*.pc`), look in one of these locations: `/opt/X11/libpkgconfig`, `/usr/X11/lib/pkgconfig`. If any of them exist, run the following:
 
-    export PKG_CONFIG_PATH=/usr/X11/lib/pkgconfig
+    `  export PKG_CONFIG_PATH=/usr/X11/lib/pkgconfig
 
   And re-run `npm install`
 
