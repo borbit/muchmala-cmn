@@ -1,7 +1,7 @@
 { 
   "name" : "muchmala-cmn",
   "version" : "0.0.1",
-  "description" : "Common modules and classes for Muchmala",
+  "description" : "Muchmala CMN",
   "contributors" : [
     "Serge Borbit <serge.borbit@gmail.com>"
   ],
