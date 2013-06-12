@@ -10,7 +10,6 @@
     "node-uuid": "*",
     "canvas" : "*",
     "lodash" : "*",
-    "async" : "*",
-    "redis": "*"
+    "async" : "*"
   }
 }
